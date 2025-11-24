@@ -1,4 +1,4 @@
-package com.makemilliondollor
+package com.bodycode
 
 import android.app.Application
 import com.facebook.react.PackageList

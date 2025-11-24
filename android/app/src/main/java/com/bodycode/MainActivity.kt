@@ -1,4 +1,4 @@
-package com.makemilliondollor
+package com.bodycode
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
